@@ -2,7 +2,7 @@
 
 Some text for you to see.
 
-[link](./shutdown.md#shut-down)
+[](./shutdown.md#shut-down)
 
 # Ending Section
 
