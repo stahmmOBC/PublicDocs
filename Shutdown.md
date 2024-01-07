@@ -1,5 +1,5 @@
 # Shut Down the System
 
-## How to shut down
+## Shut Down
 
 Some Example Text
